@@ -86,21 +86,30 @@ const hoangDev = {
 
 <div align="center">
   <a href="mailto:nvhhoang286@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://facebook.com/nvhhoang.hubert" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nvhhoang" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
----
-
+<!-- Footer -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hoangdevv&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <br>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=hoangdevv&label=Profile%20views&color=0e75b6&style=flat" alt="hoangdevv" />
+  </p>
   
-  ![Snake animation](https://github.com/hoangdevv/hoangdevv/blob/output/github-contribution-grid-snake.svg)
-</div>
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangdevv/hoangdevv/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangdevv/hoangdevv/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hoangdevv/hoangdevv/output/github-contribution-grid-snake.svg">
+  </picture>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <!-- Random Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
