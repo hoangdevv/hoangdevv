@@ -5,8 +5,9 @@
   
   <p>
     <a href="https://www.linkedin.com/in/nvhhoang"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="nvhhoang286@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://facebook.com/nvhhoang.hubert"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
     <a href="your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+    <a href="mailto:nvhhoang286@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 </div>
 
@@ -53,7 +54,8 @@ Mô tả ngắn gọn về dự án của bạn và các công nghệ sử dụn
 Mô tả ngắn gọn về dự án của bạn và các công nghệ sử dụng.
 
 ## 📫 Liên hệ
-
+- 📧 Email: nvhhoang286@gmail.com
+- 🌐 Portfolio: [your-portfolio-link.com](your-portfolio-link.com)
 
 ---
 <div align="center">
